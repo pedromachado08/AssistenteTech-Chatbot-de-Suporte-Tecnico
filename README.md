@@ -1,4 +1,4 @@
-# ASSISTENTETECH
+# ASSISTENTE-TECH
 
 > Turma: Ciências da Computação – Turma 41 | Ano: 2025
 
